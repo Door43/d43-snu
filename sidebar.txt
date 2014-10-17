@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[snu:home|Door43 (snu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-snu|d43-snu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-snu/archive/master.zip|d43-snu.zip]]
+
+**Recent Changes**
+{{changes>ns = snu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/snu|Ethnologue data]]
+
